@@ -1,0 +1,11 @@
+Pays,Age,Salaire,Achat
+France,44,72000,Non
+Espagne,27,48000,Oui
+Allemagne,30,54000,Non
+Espagne,38,61000,Non
+Allemagne,40,,Oui
+France,35,58000,Oui
+Espagne,,52000,Non
+France,48,79000,Oui
+Allemagne,50,83000,Non
+France,37,67000,Oui
