@@ -1,4 +1,5 @@
-data = read.csv('50_Startups.csv')
+data = read.csv("/Users/book/Downloads/Learning/ISI_Python_S2/FD/TP3/50_Startups.csv")
+
 
 data$Ville = factor(data$Ville,
             levels = c ('Alger','Oran','Annaba'),

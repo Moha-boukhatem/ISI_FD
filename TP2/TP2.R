@@ -1,4 +1,4 @@
-data = read.csv('salaires.csv')
+data = read.csv('/Users/book/Downloads/Learning/ISI_Python_S2/FD/TP2/salaires.csv')
 library('caTools')
 set.seed(123)
 split = sample.split(data$Salaire,SplitRatio=2/3)
